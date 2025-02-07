@@ -1,0 +1,7 @@
+remote_theme: pages-themes/midnight
+plugins:
+- jekyll-remote-theme 
+
+title: Bitcoin Maribor
+description: Bitcoin Maribor meetup
+show_downloads: false
