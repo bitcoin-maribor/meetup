@@ -16,3 +16,6 @@ If you want to be informed about new events join our [meetup.com group](https://
 13. [Bitcoin Maribor - October 2024](./meetup-notes/202410.md)
 14. [Bitcoin Maribor - November 2024](./meetup-notes/202411.md)
 15. [Bitcoin Maribor - January 2025](./meetup-notes/202501.md)
+16. [Bitcoin Maribor - Februar 2025](./meetup-notes/202502.md)
+17. [Bitcoin Maribor - Marec 2025](./meetup-notes/202503.md)
+18. TBA - kriptografija 
