@@ -1,0 +1,70 @@
+name: Build and deploy Zola
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  ZOLA_VERSION: 0.23.4
+  ZOLA_SHA256: 54d1a347781b2f32330914fcc02def81c7e3ddb6111b36d1cc89c06557aed1de
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install Zola
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 3 \
+            "https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
+            --output "$RUNNER_TEMP/zola.tar.gz"
+          echo "${ZOLA_SHA256}  $RUNNER_TEMP/zola.tar.gz" | sha256sum --check
+          mkdir -p "$RUNNER_TEMP/zola-bin"
+          tar -xzf "$RUNNER_TEMP/zola.tar.gz" -C "$RUNNER_TEMP/zola-bin" zola
+          echo "$RUNNER_TEMP/zola-bin" >> "$GITHUB_PATH"
+      - name: Configure Pages
+        if: github.event_name != 'pull_request'
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Check and build
+        env:
+          SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          zola check --skip-external-links
+          if [ -n "$SITE_BASE_URL" ]; then
+            zola build --base-url "$SITE_BASE_URL"
+          else
+            zola build
+          fi
+      - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

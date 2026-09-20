@@ -1,0 +1,823 @@
+{
+  "checked_on": "2026-09-19",
+  "group_url": "https://www.meetup.com/bitcoin-maribor/",
+  "reported_past_count": 32,
+  "imported_count": 32,
+  "events": [
+    {
+      "number": 1,
+      "meetup_id": "295799198",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/295799198/",
+      "original_title": "1st Bitcoin Maribor meetup - September 2023",
+      "status": "PAST",
+      "start": "2023-09-14T19:00:00+02:00",
+      "end": "2023-09-14T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202309/index.md",
+      "photo": {
+        "id": "519242115",
+        "url": "https://secure.meetupstatic.com/photos/event/8/4/3/highres_519242115.jpeg",
+        "kind": "group_fallback",
+        "file": "content/meetups/202309/banner.jpg",
+        "width": 1200,
+        "height": 675,
+        "sha256": "4a5269bf61b0f96901e4df3c8606a09e6bc317cbc4891b4539f3bc3341f7907f"
+      },
+      "description_sha256": "716fac1dc5c6bfb382f976ca2faf4b1aadb32ae2a27077b65ca7cbb95729ebed"
+    },
+    {
+      "number": 2,
+      "meetup_id": "296617495",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/296617495/",
+      "original_title": "2nd Bitcoin Maribor meetup - Oktober 2023!",
+      "status": "PAST",
+      "start": "2023-10-19T19:00:00+02:00",
+      "end": "2023-10-19T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202310/index.md",
+      "photo": {
+        "id": "516416767",
+        "url": "https://secure.meetupstatic.com/photos/event/d/d/b/f/highres_516416767.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202310/banner.jpg",
+        "width": 1200,
+        "height": 675,
+        "sha256": "f2d47b9ad5b48018389db39d2c36ebf5a7e36f66ab8c3ab20acdcc425993a397"
+      },
+      "description_sha256": "4b755098cc8a801ebae043b8d72debb3e339ec032de155c71561ced9c1b83918"
+    },
+    {
+      "number": 3,
+      "meetup_id": "297116095",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/297116095/",
+      "original_title": "3rd Bitcoin Maribor meetup - NOVEMBER 2023!",
+      "status": "PAST",
+      "start": "2023-11-23T19:00:00+01:00",
+      "end": "2023-11-23T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202311/index.md",
+      "photo": {
+        "id": "516416767",
+        "url": "https://secure.meetupstatic.com/photos/event/d/d/b/f/highres_516416767.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202311/banner.jpg",
+        "width": 1200,
+        "height": 675,
+        "sha256": "f2d47b9ad5b48018389db39d2c36ebf5a7e36f66ab8c3ab20acdcc425993a397"
+      },
+      "description_sha256": "f80f128af26ee08f6e1cf960a9f14f492a9994655c25f72e263dde373aade9b7"
+    },
+    {
+      "number": 4,
+      "meetup_id": "297751006",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/297751006/",
+      "original_title": "4th Bitcoin Maribor meetup - DECEMBER 2023!",
+      "status": "PAST",
+      "start": "2023-12-20T18:00:00+01:00",
+      "end": "2023-12-20T20:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202312/index.md",
+      "photo": {
+        "id": "516416767",
+        "url": "https://secure.meetupstatic.com/photos/event/d/d/b/f/highres_516416767.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202312/banner.jpg",
+        "width": 1200,
+        "height": 675,
+        "sha256": "f2d47b9ad5b48018389db39d2c36ebf5a7e36f66ab8c3ab20acdcc425993a397"
+      },
+      "description_sha256": "8b36446112851a667d0ae8dd729232ab1062411c0247ebfd344cdc9f44b0e48e"
+    },
+    {
+      "number": 5,
+      "meetup_id": "298581433",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/298581433/",
+      "original_title": "5th Bitcoin Maribor meetup - JANUAR 2024!",
+      "status": "PAST",
+      "start": "2024-01-25T19:00:00+01:00",
+      "end": "2024-01-25T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202401/index.md",
+      "photo": {
+        "id": "518536785",
+        "url": "https://secure.meetupstatic.com/photos/event/4/1/9/1/highres_518536785.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202401/banner.jpg",
+        "width": 1600,
+        "height": 900,
+        "sha256": "dec32ebc092adace7d432c660da6de44c25248521a8845525e3b2419d605878a"
+      },
+      "description_sha256": "6841d10db22eb677c78e3e0d4dd0b7f6cba8caa236412ed515987a5323b89f9f"
+    },
+    {
+      "number": 6,
+      "meetup_id": "299297257",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/299297257/",
+      "original_title": "6th Bitcoin Maribor meetup - February 2024!",
+      "status": "PAST",
+      "start": "2024-02-27T19:00:00+01:00",
+      "end": "2024-02-27T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202402/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202402/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "91f94abf69cc8da12482edd762653f4388ee9afb10570cf8a0e81c4b4c2b5791"
+    },
+    {
+      "number": 7,
+      "meetup_id": "299867135",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/299867135/",
+      "original_title": "7th Bitcoin Maribor meetup - March2024!",
+      "status": "PAST",
+      "start": "2024-03-21T19:00:00+01:00",
+      "end": "2024-03-21T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202403/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202403/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "eede1b57dad1d0673550ed10ca591b5861e4d4dd310c18365fb6d7b3c2898935"
+    },
+    {
+      "number": 8,
+      "meetup_id": "300205839",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/300205839/",
+      "original_title": "8th Bitcoin Maribor meetup - April 2024!",
+      "status": "PAST",
+      "start": "2024-04-11T19:00:00+02:00",
+      "end": "2024-04-11T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202404/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202404/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "eccc843f17182cc23013fcea5ce4224f9b7c346ea8d1bf4587440f5042d2a553"
+    },
+    {
+      "number": 9,
+      "meetup_id": "301035999",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/301035999/",
+      "original_title": "9th Bitcoin Maribor meetup - MAY 2024!",
+      "status": "PAST",
+      "start": "2024-05-30T19:00:00+02:00",
+      "end": "2024-05-30T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202405/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202405/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "24ecfdf1e476f9ceefd4aae139962791c1ce73db534571ecad6eb32bae67c259"
+    },
+    {
+      "number": 10,
+      "meetup_id": "301708211",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/301708211/",
+      "original_title": "10th Bitcoin Maribor meetup - JUNE 2024!",
+      "status": "PAST",
+      "start": "2024-06-27T19:00:00+02:00",
+      "end": "2024-06-27T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202406/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202406/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "432197a7647d3c58617dd6635e229ae9304f0d4d19d701de5ef57508a84a410a"
+    },
+    {
+      "number": 11,
+      "meetup_id": "302961636",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/302961636/",
+      "original_title": "11th Bitcoin Maribor meetup - AUGUST 2024!",
+      "status": "PAST",
+      "start": "2024-08-29T19:00:00+02:00",
+      "end": "2024-08-29T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202408/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202408/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "87306cfc642d7486e655bcde9bad32df2350d4b7eb6b8ec4a9f3997f9308edf6"
+    },
+    {
+      "number": 12,
+      "meetup_id": "303563160",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/303563160/",
+      "original_title": "12th Bitcoin Maribor meetup - September 2024!",
+      "status": "PAST",
+      "start": "2024-09-25T19:00:00+02:00",
+      "end": "2024-09-25T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202409/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202409/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "81b4e6015e8305398571b62a8b89968a7a5efc2f69cb7bbe6177de206686d1b0"
+    },
+    {
+      "number": 13,
+      "meetup_id": "304128285",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/304128285/",
+      "original_title": "13th Bitcoin Maribor meetup - October 2024!",
+      "status": "PAST",
+      "start": "2024-10-24T19:00:00+02:00",
+      "end": "2024-10-24T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202410/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202410/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "abbe3eba8435877d06bead20ddd07de6b3c2c89a0b630ff0f44dd20da9ce58fd"
+    },
+    {
+      "number": 14,
+      "meetup_id": "304602600",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/304602600/",
+      "original_title": "14th Bitcoin Maribor meetup - November 2024!",
+      "status": "PAST",
+      "start": "2024-11-21T19:00:00+01:00",
+      "end": "2024-11-21T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202411/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202411/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "12fd77a5f4e2a059babb453f1824402b19faa8d3d674d77aef2e2e0450583d8b"
+    },
+    {
+      "number": 15,
+      "meetup_id": "305514749",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/305514749/",
+      "original_title": "15th Bitcoin Maribor meetup - Januar 2025!",
+      "status": "PAST",
+      "start": "2025-01-15T19:00:00+01:00",
+      "end": "2025-01-15T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202501/index.md",
+      "photo": {
+        "id": "519258840",
+        "url": "https://secure.meetupstatic.com/photos/event/4/9/9/8/highres_519258840.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202501/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "787778a159e70e3dbfb421258aa83ec2bed502e97dbdb557ba11d13b99cc67e4"
+      },
+      "description_sha256": "872b2ea867ffe4f61c88510d853e13c84495e35b1f10451f84c937097f99f5a9"
+    },
+    {
+      "number": 16,
+      "meetup_id": "306026002",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/306026002/",
+      "original_title": "16th Bitcoin Maribor meetup - February 2025!",
+      "status": "PAST",
+      "start": "2025-02-13T19:00:00+01:00",
+      "end": "2025-02-13T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202502/index.md",
+      "photo": {
+        "id": "526110160",
+        "url": "https://secure.meetupstatic.com/photos/event/7/5/d/0/highres_526110160.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202502/banner.jpg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "76e67c3063555960e88fb868373732496c63b738d7437ba5f8f703a364ed27a0"
+      },
+      "description_sha256": "fa8257c51b62a270f9cd174bd528148f29e1311e39a8156090595a0929eae5b9"
+    },
+    {
+      "number": 17,
+      "meetup_id": "306644561",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/306644561/",
+      "original_title": "17th Bitcoin Maribor meetup - March 2025!",
+      "status": "PAST",
+      "start": "2025-03-20T19:00:00+01:00",
+      "end": "2025-03-20T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202503/index.md",
+      "photo": {
+        "id": "526703401",
+        "url": "https://secure.meetupstatic.com/photos/event/5/b/6/9/highres_526703401.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202503/banner.jpg",
+        "width": 932,
+        "height": 524,
+        "sha256": "dd4e251b5c76f59356d6f6ad939070eea522e1deb0a7a6a5994ae9b27049c360"
+      },
+      "description_sha256": "ac202fea9f777c62d8bdb23d9e60f4804ef2d9f4b94fb728a9555ee6e267e5bb"
+    },
+    {
+      "number": 18,
+      "meetup_id": "307279799",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/307279799/",
+      "original_title": "18th Bitcoin Maribor meetup - April 2025!",
+      "status": "PAST",
+      "start": "2025-04-18T19:00:00+02:00",
+      "end": "2025-04-18T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202504/index.md",
+      "photo": {
+        "id": "526703401",
+        "url": "https://secure.meetupstatic.com/photos/event/5/b/6/9/highres_526703401.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202504/banner.jpg",
+        "width": 932,
+        "height": 524,
+        "sha256": "dd4e251b5c76f59356d6f6ad939070eea522e1deb0a7a6a5994ae9b27049c360"
+      },
+      "description_sha256": "67da95954c25807c6baf54d39bab9ee90d0f977adc8773c079faa6b994ccf00e"
+    },
+    {
+      "number": 19,
+      "meetup_id": "307975569",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/307975569/",
+      "original_title": "19th Bitcoin Maribor meetup - Maj 2025!",
+      "status": "PAST",
+      "start": "2025-05-29T19:00:00+02:00",
+      "end": "2025-05-29T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202505/index.md",
+      "photo": {
+        "id": "526703401",
+        "url": "https://secure.meetupstatic.com/photos/event/5/b/6/9/highres_526703401.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202505/banner.jpg",
+        "width": 932,
+        "height": 524,
+        "sha256": "dd4e251b5c76f59356d6f6ad939070eea522e1deb0a7a6a5994ae9b27049c360"
+      },
+      "description_sha256": "7d262c509176ac8cc63c37a235376512bd85e53ddabd80b118ff7a158000aa86"
+    },
+    {
+      "number": 20,
+      "meetup_id": "310150440",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/310150440/",
+      "original_title": "20th Bitcoin Maribor meetup - Julij 2025!",
+      "status": "PAST",
+      "start": "2025-07-31T19:00:00+02:00",
+      "end": "2025-07-31T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202507/index.md",
+      "photo": {
+        "id": "526703401",
+        "url": "https://secure.meetupstatic.com/photos/event/5/b/6/9/highres_526703401.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202507/banner.jpg",
+        "width": 932,
+        "height": 524,
+        "sha256": "dd4e251b5c76f59356d6f6ad939070eea522e1deb0a7a6a5994ae9b27049c360"
+      },
+      "description_sha256": "620dea2112a9802ba21d1679a8da6cb874b806bc5cc7fb217dba836c0fdf3ab1"
+    },
+    {
+      "number": 21,
+      "meetup_id": "311243623",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/311243623/",
+      "original_title": "21st Bitcoin Maribor meetup - Oktober 2025!",
+      "status": "PAST",
+      "start": "2025-10-02T19:00:00+02:00",
+      "end": "2025-10-02T21:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202510/index.md",
+      "photo": {
+        "id": "530407759",
+        "url": "https://secure.meetupstatic.com/photos/event/1/e/4/f/highres_530407759.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202510/banner.jpg",
+        "width": 1111,
+        "height": 625,
+        "sha256": "829e520f9f98c16aafa99288072a4a8bf9dc9b7b41f1958db1ed676906159fbe"
+      },
+      "description_sha256": "94fc74b4b0296f0a860789ff7fd7bf26f9f7ced9c1f5c351bbaa1a42895168ff"
+    },
+    {
+      "number": 22,
+      "meetup_id": "311807221",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/311807221/",
+      "original_title": "22st Bitcoin Maribor meetup - NOVEMBER 2025!",
+      "status": "PAST",
+      "start": "2025-11-06T19:00:00+01:00",
+      "end": "2025-11-06T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202511/index.md",
+      "photo": {
+        "id": "531046069",
+        "url": "https://secure.meetupstatic.com/photos/event/b/3/f/5/highres_531046069.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202511/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "efcb951d0b9614455f816c125de3b8101af60c68a12b3e55b96805cd63d30c65"
+      },
+      "description_sha256": "73941f69f4a66425c04d4e44b7b90db874d8873d2463cd88e537f40fe0d9001b"
+    },
+    {
+      "number": 23,
+      "meetup_id": "312186660",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/312186660/",
+      "original_title": "23rd Bitcoin Maribor meetup - DECEMBER 2025!",
+      "status": "PAST",
+      "start": "2025-12-01T19:00:00+01:00",
+      "end": "2025-12-01T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202512/index.md",
+      "photo": {
+        "id": "531046069",
+        "url": "https://secure.meetupstatic.com/photos/event/b/3/f/5/highres_531046069.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202512/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "efcb951d0b9614455f816c125de3b8101af60c68a12b3e55b96805cd63d30c65"
+      },
+      "description_sha256": "716502f30e499ed4fe05eddd5ccc744fb22e8cf9121af7792b09156c8dec67a7"
+    },
+    {
+      "number": 24,
+      "meetup_id": "312876115",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/312876115/",
+      "original_title": "24rd Bitcoin Maribor meetup - January 2025!",
+      "status": "PAST",
+      "start": "2026-01-22T19:00:00+01:00",
+      "end": "2026-01-22T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202601/index.md",
+      "photo": {
+        "id": "531046069",
+        "url": "https://secure.meetupstatic.com/photos/event/b/3/f/5/highres_531046069.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202601/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "efcb951d0b9614455f816c125de3b8101af60c68a12b3e55b96805cd63d30c65"
+      },
+      "description_sha256": "8ba436736399fbb30e49f988e94a65702d562fdba8dcd9da4faf138ee38d2d21"
+    },
+    {
+      "number": 25,
+      "meetup_id": "313188011",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/313188011/",
+      "original_title": "25rd Bitcoin Maribor meetup - Februar 2025!",
+      "status": "PAST",
+      "start": "2026-02-05T19:00:00+01:00",
+      "end": "2026-02-05T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202602/index.md",
+      "photo": {
+        "id": "531046069",
+        "url": "https://secure.meetupstatic.com/photos/event/b/3/f/5/highres_531046069.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202602/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "efcb951d0b9614455f816c125de3b8101af60c68a12b3e55b96805cd63d30c65"
+      },
+      "description_sha256": "a3b0c7a2bdd8e5a3bb3369a00f050ab35978945058c10adda2057ae9baafca35"
+    },
+    {
+      "number": 26,
+      "meetup_id": "313680496",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/313680496/",
+      "original_title": "26th Bitcoin Maribor meetup - March 2026!",
+      "status": "PAST",
+      "start": "2026-03-10T19:00:00+01:00",
+      "end": "2026-03-10T21:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/20260310/index.md",
+      "photo": {
+        "id": "531046069",
+        "url": "https://secure.meetupstatic.com/photos/event/b/3/f/5/highres_531046069.jpeg",
+        "kind": "event",
+        "file": "content/meetups/20260310/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "efcb951d0b9614455f816c125de3b8101af60c68a12b3e55b96805cd63d30c65"
+      },
+      "description_sha256": "e5b4a73f8c0f2e6f70c2779499f2cc472fda0169793d685635f64e8f9d883c54"
+    },
+    {
+      "number": 27,
+      "meetup_id": "313816710",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/313816710/",
+      "original_title": "27th Bitcoin Maribor meetup - March 2026!",
+      "status": "PAST",
+      "start": "2026-03-26T19:00:00+01:00",
+      "end": "2026-03-26T20:00:00+01:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/20260326/index.md",
+      "photo": {
+        "id": "533245745",
+        "url": "https://secure.meetupstatic.com/photos/event/6/4/9/1/highres_533245745.jpeg",
+        "kind": "event",
+        "file": "content/meetups/20260326/banner.jpg",
+        "width": 1364,
+        "height": 767,
+        "sha256": "a851e3cc1643ce8aba066118784606f8d40858675eba6231786e45d46ef7273c"
+      },
+      "description_sha256": "a978a5c0b6c7a637c956f46c3f528090c3390e16bb37c38145441caf8291ec58"
+    },
+    {
+      "number": 28,
+      "meetup_id": "314292140",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/314292140/",
+      "original_title": "28th Bitcoin Maribor meetup - April 2026!",
+      "status": "PAST",
+      "start": "2026-04-23T19:00:00+02:00",
+      "end": "2026-04-23T20:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202604/index.md",
+      "photo": {
+        "id": "533743118",
+        "url": "https://secure.meetupstatic.com/photos/event/a/8/6/e/highres_533743118.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202604/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "dcad9a2da40c0d283c582a0325b2e63df29ab329b71b2fcd871b36ce252ea8f6"
+      },
+      "description_sha256": "56a98c3a6e7839e99448a08aef6c545ca45d3ecace2922a3744fc8138cb19e37"
+    },
+    {
+      "number": 29,
+      "meetup_id": "314932502",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/314932502/",
+      "original_title": "29th Bitcoin Maribor meetup - MAJ 2026!",
+      "status": "PAST",
+      "start": "2026-05-28T19:00:00+02:00",
+      "end": "2026-05-28T20:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202605/index.md",
+      "photo": {
+        "id": "534380886",
+        "url": "https://secure.meetupstatic.com/photos/event/5/1/9/6/highres_534380886.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202605/banner.jpg",
+        "width": 1076,
+        "height": 605,
+        "sha256": "9f4065eb57fa6200798404924ec97f77d3494e770ff2c57e5934754e92d14bbe"
+      },
+      "description_sha256": "fd2a53f2683ba7ca57c17bf2c820613ac9fa9fddc000ccd57586251b60c53b6a"
+    },
+    {
+      "number": 30,
+      "meetup_id": "315325907",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/315325907/",
+      "original_title": "30. Bitcoin Maribor meetup - JUNIJ 2026!",
+      "status": "PAST",
+      "start": "2026-06-25T19:00:00+02:00",
+      "end": "2026-06-25T20:00:00+02:00",
+      "venue": {
+        "name": "Koblarjev Zaliv",
+        "address": "Na Otok 20",
+        "city": "Kamnica"
+      },
+      "page": "content/meetups/202606/index.md",
+      "photo": {
+        "id": "534814031",
+        "url": "https://secure.meetupstatic.com/photos/event/8/4/e/f/highres_534814031.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202606/banner.jpg",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "9206db5f61a277ec2336b9da8a2ff60373e22222404b006722b581a2511207cf"
+      },
+      "description_sha256": "348b20644a72bd5361b1ba4ae5a783d00f34c7082e5ea545046d17c81fb621c5"
+    },
+    {
+      "number": 31,
+      "meetup_id": "315756905",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/315756905/",
+      "original_title": "31. Bitcoin Maribor meetup - JULIJ 2026!",
+      "status": "PAST",
+      "start": "2026-07-23T19:00:00+02:00",
+      "end": "2026-07-23T20:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202607/index.md",
+      "photo": {
+        "id": "535287251",
+        "url": "https://secure.meetupstatic.com/photos/event/6/a/7/3/highres_535287251.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202607/banner.jpg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "5c5a01fa672542a1b480b6c1221f82f71000780b915cd36519d0bf3b86b50765"
+      },
+      "description_sha256": "3879c856fb0e32403b7797ebaccb1a27335310715352435ece27095ebd9fceec"
+    },
+    {
+      "number": 32,
+      "meetup_id": "316218171",
+      "url": "https://www.meetup.com/bitcoin-maribor/events/316218171/",
+      "original_title": "32. Bitcoin Maribor meetup - AUGUST 2026!",
+      "status": "PAST",
+      "start": "2026-08-27T19:00:00+02:00",
+      "end": "2026-08-27T20:00:00+02:00",
+      "venue": {
+        "name": "Hotel Betnava",
+        "address": "Ulica Eve Lovše 15",
+        "city": "Maribor"
+      },
+      "page": "content/meetups/202608/index.md",
+      "photo": {
+        "id": "535769256",
+        "url": "https://secure.meetupstatic.com/photos/event/7/2/4/8/highres_535769256.jpeg",
+        "kind": "event",
+        "file": "content/meetups/202608/banner.jpg",
+        "width": 1200,
+        "height": 675,
+        "sha256": "813d1e0c54df5ad57bd8a56a3e9b33e5b270281789dafae4740179f4eb48dc19"
+      },
+      "description_sha256": "4a0d6bc88b9f77201ee1820fd429876d8479272b045aab55a78d7ce1f7f67e77"
+    }
+  ],
+  "upcoming_event": {
+    "number": 33,
+    "meetup_id": "316592529",
+    "url": "https://www.meetup.com/bitcoin-maribor/events/316592529/",
+    "start": "2026-09-24T19:00:00+02:00",
+    "status": "ACTIVE",
+    "page": "content/meetups/202609/index.md",
+    "photo": {
+      "id": "536179951",
+      "url": "https://secure.meetupstatic.com/photos/event/4/d/e/f/highres_536179951.jpeg",
+      "file": "content/meetups/202609/banner.jpg",
+      "sha256": "bcb6473091f7e526b400a2dfd56185f1415e13182fb090d050a777271d3c90e7"
+    },
+    "description_sha256": "b960922d8b0f652dd67bdc25fba5e4a72d3a152a9dbff2f46ef06a3b322e65f6"
+  }
+}

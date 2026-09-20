@@ -1,0 +1,4 @@
+/public/
+/node_modules/
+/themes/zolarwind/node_modules/
+.DS_Store
