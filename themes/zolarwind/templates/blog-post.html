@@ -20,9 +20,7 @@
       data-clipboard-copied="{{ res.clipboard_copied }}"
       data-clipboard-error="{{ res.clipboard_error }}"
     >
-      <div class="h-48 rounded-md shadow-md">
-        <img class="block h-48 w-full object-cover" src="{{ get_url(path=banner_path) }}" alt="{{ page.title | default(value=res.empty_page_title) | striptags }}" fetchpriority="high" loading="eager">
-      </div>
+      <img class="block w-full rounded-md shadow-md" style="height: auto;" src="{{ get_url(path=banner_path) }}" alt="{{ page.title | default(value=res.empty_page_title) | striptags }}" fetchpriority="high" loading="eager">
       <h1>{{ page.title | default(value=res.empty_page_title) | striptags }}</h1>
       <div>
         <div class="flex flex-wrap items-center">
