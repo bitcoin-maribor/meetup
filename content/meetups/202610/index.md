@@ -5,7 +5,7 @@ date = 2026-10-22
 [taxonomies]
 tags = ["skupnost", "bitcoin"]
 [extra]
-image = "BDS-MB-nr34.png"
+image = "BDS-MB-nr34_silhueta.jpg"
 meetup_id = "x"
 meetup_number = 34
 meetup_url = "https://www.meetup.com/bitcoin-maribor/"
