@@ -20,7 +20,7 @@ image_source_kind = "event"
 source_checked = "2026-10-11"
 +++
 
-# **22\. oktober 2026 \- BDS MB meetup \#34 \- Hash funkcija
+# 22\. oktober 2026 \- BDS MB meetup \#34 \- Hash funkcija
 
 ## Hash funkcija - digitalni prstni odtis
 
