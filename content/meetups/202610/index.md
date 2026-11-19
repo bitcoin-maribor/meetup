@@ -8,7 +8,7 @@ tags = ["skupnost", "bitcoin"]
 image = "BDS-MB-nr34_hash-func.png"
 meetup_id = "x"
 meetup_number = 34
-meetup_url = "https://www.meetup.com/bitcoin-maribor/"
+meetup_url = "[https://www.meetup.com/bitcoin-maribor/](https://www.meetup.com/bitcoin-maribor/events/316974924/)"
 meetup_original_title = "Bitcoin Maribor - Oktober 2026!"
 event_start = "2026-10-22T19:00:00+02:00"
 event_end = "2026-10-22T22:00:00+02:00"
@@ -57,4 +57,4 @@ Our friends from **Bitcoin Shop** will also be joining us – if you’d like to
 
 ---
 
-[Prijava in izvirna objava na Meetup.com](https://www.meetup.com/bitcoin-maribor/events/316592529/). ==Dodaj pravi link ko je objavljen==
+[Prijava in izvirna objava na Meetup.com](https://www.meetup.com/bitcoin-maribor/events/316592529/).
